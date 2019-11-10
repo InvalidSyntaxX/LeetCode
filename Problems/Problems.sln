@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MaxSubArray", "MaxSubArray\MaxSubArray.vcxproj", "{A3272A07-B0BC-4078-B706-45A968E855AF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FindShortestSubArray", "FindShortestSubArray\FindShortestSubArray.vcxproj", "{BDB9C3F6-2DEA-44FE-99E4-8CE51E11F8CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{A3272A07-B0BC-4078-B706-45A968E855AF}.Release|x64.Build.0 = Release|x64
 		{A3272A07-B0BC-4078-B706-45A968E855AF}.Release|x86.ActiveCfg = Release|Win32
 		{A3272A07-B0BC-4078-B706-45A968E855AF}.Release|x86.Build.0 = Release|Win32
+		{BDB9C3F6-2DEA-44FE-99E4-8CE51E11F8CC}.Debug|x64.ActiveCfg = Debug|x64
+		{BDB9C3F6-2DEA-44FE-99E4-8CE51E11F8CC}.Debug|x64.Build.0 = Debug|x64
+		{BDB9C3F6-2DEA-44FE-99E4-8CE51E11F8CC}.Debug|x86.ActiveCfg = Debug|Win32
+		{BDB9C3F6-2DEA-44FE-99E4-8CE51E11F8CC}.Debug|x86.Build.0 = Debug|Win32
+		{BDB9C3F6-2DEA-44FE-99E4-8CE51E11F8CC}.Release|x64.ActiveCfg = Release|x64
+		{BDB9C3F6-2DEA-44FE-99E4-8CE51E11F8CC}.Release|x64.Build.0 = Release|x64
+		{BDB9C3F6-2DEA-44FE-99E4-8CE51E11F8CC}.Release|x86.ActiveCfg = Release|Win32
+		{BDB9C3F6-2DEA-44FE-99E4-8CE51E11F8CC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
